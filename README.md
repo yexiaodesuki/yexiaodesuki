@@ -16,7 +16,7 @@
 * **Time**: Sep 2022 – Jun 2026
 
     </td>
-    <td width="20%">
+    <td width="20%" align="center" valign="middle">
       <img src="https://www.nankai.edu.cn/_upload/article/images/77/1f/a7852bfa49c3bdea0f4564630e66/c658ec37-5315-4c7c-b5d5-aee3e3e570d3.jpg" width="70"/>
     </td>
   </tr>
@@ -72,9 +72,9 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=yexiaodesuki\&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=yexiaodesuki&show_icons=true&hide_title=true&include_all_commits=true)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yexiaodesuki\&layout=compact)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yexiaodesuki&layout=compact)
 
 ---
 
