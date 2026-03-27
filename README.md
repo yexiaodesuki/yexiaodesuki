@@ -1,64 +1,62 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Systems&center=true&size=20&height=35">
+</p>
+
 # 👋 Hi, I'm Mingyu Cai (蔡铭宇)
+
+<p align="center">
+  <i>Undergraduate @ Nankai University · Information Security</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Exploration-blue"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-purple"/>
+  <img src="https://img.shields.io/badge/Programming-Multi--Language-orange"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td width="80%">
+### 🏫 Nankai University  
 
-### 🏫 Nankai University
-
-* **School**: School of Cryptography and Cyberspace Security
-* **Major**: Information Security
-* **Degree**: Bachelor of Engineering
-* **Time**: Sep 2022 – Jun 2026
-
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <img src="https://www.nankai.edu.cn/_upload/article/images/77/1f/a7852bfa49c3bdea0f4564630e66/c658ec37-5315-4c7c-b5d5-aee3e3e570d3.jpg" width="70"/>
-    </td>
-  </tr>
-
-</table>
+- **School**: School of Cryptography and Cyberspace Security  
+- **Major**: Information Security  
+- **Degree**: Bachelor of Engineering  
+- **Time**: Sep 2022 – Jun 2026  
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Incoming graduate student at **Tongji University**
-* 🔍 Strong interest in **Artificial Intelligence**, especially **Large Language Models (LLMs)** and **Machine Learning**
-* 🔐 Focus on **LLM Security & Jailbreak Attacks**
-* 💡 Passionate about combining **AI + Security**
+* 🎓 Senior undergraduate student at Nankai University
+* 🔍 Interested in **Artificial Intelligence**, especially **Machine Learning** and **Large Language Models (LLMs)**
+* 💡 Exploring different directions in **AI and systems**
+* 🚀 Actively building projects and improving engineering skills
 
 ---
 
 ## 🛠️ Skills
 
-* 💻 Programming Languages:
-  `C` / `C++` / `Python` / `MySQL` / `PHP`
-
-* ⚙️ Areas:
-
-  * Information Security
-  * Machine Learning
-  * LLM Security
-  * Backend Development
+<p>
+  <img src="https://img.shields.io/badge/C-C%2FC++-00599C"/>
+  <img src="https://img.shields.io/badge/C++-STL-00599C"/>
+  <img src="https://img.shields.io/badge/Java-Backend-red"/>
+  <img src="https://img.shields.io/badge/Python-ML-yellow"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-blue"/>
+  <img src="https://img.shields.io/badge/PHP-Web-purple"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔥 LLM Jailbreak Attack Research (Graduation Project)
+### 🔥 LLM Jailbreak Attack Research
 
-* Built a **prompt-based jailbreak attack framework**
-* Designed multiple strategies:
-
-  * Role Play / Context Shift / Logic Wrapping
-  * Output Constraint / Obfuscation
-* Developed an **automated attack & evaluation pipeline**
-* Focused on improving **attack success rate** and **generalization**
+* Built a **prompt-based experimental framework**
+* Explored multiple strategies for interacting with LLMs
+* Developed an **automated generation and evaluation pipeline**
+* Focused on understanding model behavior and improving robustness
 
 ---
 
@@ -66,15 +64,7 @@
 
 * Developed a system for detecting hidden or suspicious devices
 * 🏆 **Second Prize**, National Information Security Competition
-* Applied security techniques in real-world scenarios
-
----
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=yexiaodesuki&show_icons=true&hide_title=true&include_all_commits=true)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yexiaodesuki&layout=compact)
+* Applied practical techniques to real-world scenarios
 
 ---
 
@@ -87,10 +77,12 @@
 
 ## 🌱 Current Focus
 
-* LLM Jailbreak Attack Optimization
-* AI Security Research
-* Graduate-level Research Preparation
+* Learning Machine Learning and AI systems
+* Exploring LLM-related technologies
+* Strengthening programming and system design skills
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ <i>Thanks for visiting — feel free to explore my projects!</i>
+</p>
