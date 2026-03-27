@@ -49,37 +49,10 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔥 LLM Jailbreak Attack Research
-
-* Built a **prompt-based experimental framework**
-* Explored multiple strategies for interacting with LLMs
-* Developed an **automated generation and evaluation pipeline**
-* Focused on understanding model behavior and improving robustness
-
----
-
-### 🔍 Hidden Device Detection System
-
-* Developed a system for detecting hidden or suspicious devices
-* 🏆 **Second Prize**, National Information Security Competition
-* Applied practical techniques to real-world scenarios
-
----
-
 ## 📫 Contact Me
 
 * 📧 [2212912@mail.nankai.edu.cn](mailto:2212912@mail.nankai.edu.cn)
 * 📧 [tokyomonstersmith@gmail.com](mailto:tokyomonstersmith@gmail.com)
-
----
-
-## 🌱 Current Focus
-
-* Learning Machine Learning and AI systems
-* Exploring LLM-related technologies
-* Strengthening programming and system design skills
 
 ---
 
