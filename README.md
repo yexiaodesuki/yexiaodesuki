@@ -8,12 +8,6 @@
   <i>Undergraduate @ Nankai University · Information Security</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Exploration-blue"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-purple"/>
-  <img src="https://img.shields.io/badge/Programming-Multi--Language-orange"/>
-</p>
-
 ---
 
 ## 🎓 Education
@@ -29,9 +23,8 @@
 
 ## 🧠 About Me
 
-* 🎓 Senior undergraduate student at Nankai University
-* 🔍 Interested in **Artificial Intelligence**, especially **Machine Learning** and **Large Language Models (LLMs)**
-* 💡 Exploring different directions in **AI and systems**
+* 🔍 Interested in **Artificial Intelligence**, especially **Large Language Models (LLMs)**
+* 💡 Exploring different directions in **AI security**
 * 🚀 Actively building projects and improving engineering skills
 
 ---
@@ -40,7 +33,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/C-C%2FC++-00599C"/>
-  <img src="https://img.shields.io/badge/C++-STL-00599C"/>
   <img src="https://img.shields.io/badge/Java-Backend-red"/>
   <img src="https://img.shields.io/badge/Python-ML-yellow"/>
   <img src="https://img.shields.io/badge/MySQL-Database-blue"/>
