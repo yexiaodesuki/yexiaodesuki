@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Systems&center=true&size=20&height=35">
 </p>
 
-# 👋 Hi, I'm Mingyu Cai (蔡铭宇)
+# 👋 Hi, I'm Mingyu Cai 
 
 <p align="center">
   <i>Undergraduate @ Nankai University · Information Security</i>
