@@ -21,6 +21,16 @@
 
 ---
 
+### 🏫 Tongji University  
+
+- **School**: School of Computer Science and Technology  
+- **Major**: Computer Technology  
+- **Degree**: Master of Engineering  
+- **Time**: Sep 2026 – Jun 2029  
+- **Status**: Admitted
+
+---
+
 ## 🧠 About Me
 
 * 🔍 Interested in **Artificial Intelligence**, especially **Large Language Models (LLMs)**
