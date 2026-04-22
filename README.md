@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Systems&center=true&size=20&height=35">
 </p>
 
-# 👋 Hi, I'm Mingyu Cai 
+# 👋 Hi, I'm Tokyo Monster 
 
 <p align="center">
   <i>Undergraduate @ Nankai University · Information Security</i>
@@ -36,18 +36,6 @@
 * 🔍 Interested in **Artificial Intelligence**, especially **Large Language Models (LLMs)**
 * 💡 Exploring different directions in **AI security**
 * 🚀 Actively building projects and improving engineering skills
-
----
-
-## 🛠️ Skills
-
-<p>
-  <img src="https://img.shields.io/badge/C-C%2FC++-00599C"/>
-  <img src="https://img.shields.io/badge/Java-Backend-red"/>
-  <img src="https://img.shields.io/badge/Python-ML-yellow"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-blue"/>
-  <img src="https://img.shields.io/badge/PHP-Web-purple"/>
-</p>
 
 ---
 
