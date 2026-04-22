@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Systems&center=true&size=20&height=35">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Have+a+nice+day!&center=true&size=20&height=35">
 </p>
 
 # 👋 Hi, I'm Tokyo Monster 
