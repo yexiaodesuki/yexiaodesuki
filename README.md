@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Tokyo Monster 
 
 <p align="center">
-  <i>Undergraduate @ Nankai University · Information Security</i>
+  <i>M.S. @ Tongji University · Computer Technology</i>
 </p>
 
 ---
@@ -27,7 +27,6 @@
 - **Major**: Computer Technology  
 - **Degree**: Master of Engineering  
 - **Time**: Sep 2026 – Jun 2029  
-- **Status**: Admitted
 
 ---
 
@@ -41,7 +40,7 @@
 
 ## 📫 Contact Me
 
-* 📧 [2212912@mail.nankai.edu.cn](mailto:2212912@mail.nankai.edu.cn)
+* 📧 [2634215@tongji.edu.cn](mailto:2634215@tongji.edu.cn)
 * 📧 [tokyomonstersmith@gmail.com](mailto:tokyomonstersmith@gmail.com)
 
 ---
